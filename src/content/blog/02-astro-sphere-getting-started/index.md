@@ -1,6 +1,6 @@
 ---
-title: "My First Year of College — A Work in Progress"
-summary: "Five months into engineering college. Here's what actually happened."
+title: "my first year of college, a work in progress"
+summary: "my perspective of first semester"
 date: "2025-03-11"
 tags:
   - college
@@ -8,17 +8,6 @@ tags:
   - engineering
 draft: false
 
----
-title: "My First Year of College — A Work in Progress"
-author: Tanay Shah
-pubDatetime: 2025-03-11T00:00:00Z
-description: "5 months into engineering. here's what actually happened."
-tags:
-  - college
-  - personal
-  - engineering
-draft: false
-featured: true
 ---
 # My First Year of College — A Work in Progress
 ### [tanay shah] | [cse aiml] | [pes university]
