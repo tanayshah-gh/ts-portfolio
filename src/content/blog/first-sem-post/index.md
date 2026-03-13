@@ -9,12 +9,6 @@ tags:
 draft: false
 
 ---
-# My First Year of College — A Work in Progress
-### [tanay shah] | [cse aiml] | [pes university]
-
-*I'm still in my second semester. This isn't a wrap-up. It's a live document.*
-
----
 
 I didn't really know what to expect walking into college. I think most people don't. You spend years hearing about it — the freedom, the friendships, the chaos — and then suddenly you're standing in the middle of it, trying to figure out which bmtc to catch and whether you'll make it to the first lecture on time.
 
